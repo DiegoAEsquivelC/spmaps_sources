@@ -1,1 +1,4 @@
-This includes the weapons used. To add them, you must place them in the correct folder, either weapons/sp or weapon/mp.
+This includes the weapons used. To add them, you must place them in the correct folder, either weapons/sp or weapon/mp on the RAW directory of COD4. 
+To add them into the game, add into your .csv file of the map:
+weapon,sp/[weapon_name]
+weapon,mp/[weapon_name]
