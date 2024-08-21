@@ -1,0 +1,1 @@
+Here are AI types or characters. The character you must add into the aitypes folder on the RAW directory of COD4 is the gsc file and it's CSV.
