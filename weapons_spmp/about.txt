@@ -1,0 +1,1 @@
+This includes the weapons used. To add them, you must place them in the correct folder, either weapons/sp or weapon/mp.
